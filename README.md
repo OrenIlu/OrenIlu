@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Oren Ilutowich, a passionate developer with a strong focus on technology and creating new things. My GitHub profile showcases various projects and code samples from my academic & personal journey.
+I'm Oren Ilutowich, a passionate developer with a strong focus on technology and creating new things. My GitHub profile showcases various projects and code samples from my academic journey.
 
 ## Featured Projects
 
@@ -16,8 +16,8 @@ I'm Oren Ilutowich, a passionate developer with a strong focus on technology and
 
 - **Languages:** Python, C#, C, C++, SQL, Java
 - **Tools:** Git, Jupyter, Visual Studio
-- **Focus Areas:** Data Science, Machine Learning, Software Development
+- **Focus Areas:** Data Science, Machine Learning, Software Development, Full-Stack Development
 
 ## Contact Me
 
-I'm currently seeking new opportunities in software dev and data science. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/oren-ilutowich-7854252b0) or explore my projects here.
+I'm currently seeking new opportunities in Full-Stack Development. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/oren-ilutowich-7854252b0) or explore my projects here.
